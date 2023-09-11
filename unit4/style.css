@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+background-color: aquamarine;
+}
+
+body {
+background-color: tan;
+width: 80%;
+  
+}
+p {
+background-color:red;
+  color:magenta;
+  font-family:'Times New Roman', Times, serif;
+}
+
+h1 {
+background-color:blue;
+  color:purple;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+background-color:green;
+  color:orange;
+  font-family:fantasy;
+}
+
+h3 {
+background-color:white;
+color:black;
+  font-family:Arial, Helvetica, sans-serif;
+}
+footer {
+font-style: italic;
+background-color:crimson;
+}
