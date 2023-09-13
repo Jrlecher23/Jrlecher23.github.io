@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;}
+body {
+  background-color: grey;
+}
+
+h1, h2, h3 {
+text-align:center;
+
+  
+}
+#wrapper{
+width:80%;
+box-shadow:aquamarine;
+background-color:yellow;
+margin: auto;
+}
+div {
+  width: 90%;
+  margin: auto;
+}
+
+.itembox {
+    border: 2px solid #3498db; /* Example border color (blue) */
+    border-radius: 10px; /* Example border radius */
+    box-shadow: 3px 3px 5px #888; /* Example box shadow */
+    background-color: #f0f0f0; /* Example background color (light gray) */
+    color: #333; /* Example text color */
+    padding: 15px; /* Example padding */
+}
