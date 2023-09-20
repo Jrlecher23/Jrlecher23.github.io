@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.image-height {
+    height: 300px;
+}
+
+#borderimg {
+    background-color: #333; /* Background color */
+    color: white; /* Text color */
+}
+
+body {
+    background-image: url('your-background-image-url.jpg'); /* Background image */
+    background-size: cover; /* Resize background image to cover container */
+}
+
+#wrapper {
+    width: 60%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-image: url('your-list-marker-image-url.png');
+    background-size: 32px 32px; /* Adjust the size as needed */
+    background-repeat: no-repeat;
+    padding-left: 40px; /* Add padding for text */
+}
+
+.specialborder {
+    border: 10px solid transparent; /* Set a transparent border */
+    border-image: url('your-border-image-url.png') 30 round; /* Your border image */
+}
